@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/KenyonY/openai-forward)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/zkewind/oai-forward)
 
 [特点](#主要特性) |
 [部署指南](deploy.md) |

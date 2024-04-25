@@ -1,5 +1,5 @@
 services:
-  - name: openai-forward
+  - name: oai-forward
     type: web
     env: docker
     region: oregon
